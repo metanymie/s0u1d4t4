@@ -6,7 +6,7 @@ and has been created using the tracery library for json and the visual editor ht
 
 you are welcomed to add to it's vocabulary and syntax
 
-as of current version, it mostly Baudrillard's theory, as well as some philosophy thought experiment. 
-it reflects on gender and identity, in an age of network.
+as of current version, it mostly refers Baudrillard's theories, as well as some philosophical thought experiments. 
+it reflects on gender and identity, in an age of networks.
 
 I wish for it to conflates scholarly concepts and public figures.
